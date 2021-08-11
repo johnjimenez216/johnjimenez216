@@ -1,3 +1,4 @@
+<img src="https://avatars.githubusercontent.com/u/88794133?s=200&v=4" alt="BVC Cololbia" width="120" height="120"/>
 <h1 align="center">Hi 👋, I'm John Jimenez</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
