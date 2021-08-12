@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://avatars.githubusercontent.com/u/88794133?s=200&amp;v=4" alt="BVC Cololbia" width="120" height="120" /><br>Agile Coding CDK</h1>
+<h1 align="center"><img src="https://avatars.githubusercontent.com/u/88794133?s=200&amp;v=4" alt="BVC Cololbia" width="120" height="120" />Agile Coding CDK</h1>
 <h3 align="justify">Agile Coding CDK es un conjunto de herramientas de desarrollo de software establecidas por y para la BVC para la creaci&oacute;n de software y acelerar los euquipos de trabajo,.</h3>
 <p style="text-align: justify;">Agile Coding CDK est&aacute; compuesto por una colecci&oacute;n de artefactos de desarollo basados en diferentes patrones de arquitectura que tienen como fin resolver m&uacute;ltiples inconvenientes que pueden presentarse en el proceso de desarrollo de software</p>
 <p style="text-align: justify;">&nbsp;</p>
@@ -19,11 +19,11 @@
 <p style="text-align: justify;">&nbsp;</p>
 <h2>Que encontraremos aqu&iacute;?</h2>
 <ul>
-<li>Patrones Estructurales</li>
-<li>Patrones de Creaci&oacute;n</li>
-<li>Patrones de Comportamiento</li>
-<li>Patrones de Microservicios</li>
-<li>Patrones Especializados</li>
+<li><a title="Patrones Estructurales" href="https://github.com/johnjimenez216/bbv-cdk-structural-patterns">Patrones Estructurales</a></li>
+<li><a title="Patrones de Creaci&oacute;n" href="https://github.com/johnjimenez216/bvc-cdk-creation-patterns">Patrones de Creaci&oacute;n</a></li>
+<li><a title="Patrones de Comportamiento" href="https://github.com/johnjimenez216/bvc-cdk-behaivor-patterns">Patrones de Comportamiento</a></li>
+<li><a title="Patrones de Microservicios" href="https://github.com/johnjimenez216/bvc-cdk-microservices-patterns">Patrones de Microservicios</a></li>
+<li><a title="Patrones Especializados" href="https://github.com/johnjimenez216/bvc-cdk-specialized-patterns">Patrones Especializados</a></li>
 </ul>
 <p>&nbsp;</p>
 <h3 align="left">Lenguajes y herramientas utilizadas:</h3>
